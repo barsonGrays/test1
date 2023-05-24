@@ -1,0 +1,10 @@
+Headline of the text
+1st line of the text
+2nd line of the text using "yy" and "p" cmd
+Something in here
+Something in here
+Something in here
+Something in here
+Something in here
+Something in here
+Final line of the text.
